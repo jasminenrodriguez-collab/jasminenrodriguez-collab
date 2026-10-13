@@ -6,7 +6,7 @@
 
 ## 📌 Featured project: [AI Automation Assistant Blueprint](https://github.com/jasminenrodriguez-collab/ai-automation-assistant-blueprint)
 
-When a user said "I can't find a way to get this report" or "how do I automate this," the assistant replied with exactly how to do it using the platform's existing functionality, drawn from real expert use cases. It is grounded in an organization's existing documentation and guides users step by step through automated workflows, custom groupings, metrics and scheduled reports, and it **doubled analyst delivery capacity with no added headcount** while cutting escalations. The repo is a case study of the method.
+When a CSM said "I can't find a way to get this report" or "how do I automate this," the assistant replied with exactly how to do it using the platform's existing functionality, drawn from real expert use cases. It is grounded in an organization's existing documentation and guides users step by step through automated workflows, custom groupings, metrics and scheduled reports, and it **doubled analyst delivery capacity with no added headcount** while cutting escalations. The repo is a case study of the method.
 
 ## Highlights
 
