@@ -18,7 +18,7 @@ When a CSM said "I can't find a way to get this report" or "how do I automate th
 
 ## Credentials
 
-**CISSP** · **2 U.S. patents (1 pending)**
+**CISSP** · **3 U.S. patents**
 
 ## What I focus on
 
